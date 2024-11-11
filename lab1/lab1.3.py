@@ -1,5 +1,5 @@
 # 3
-name = "Vladyslav 1"
+name = "Vladyslav"
 kierunek = "Programywanie"
 uczelnia =" WSIZ"
 
