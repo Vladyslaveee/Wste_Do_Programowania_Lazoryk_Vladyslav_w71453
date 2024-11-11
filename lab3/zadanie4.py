@@ -1,5 +1,3 @@
-from tensorflow.python.tools.saved_model_cli import load_inputs_from_input_arg_string
-
 list=["as","kft","ktfs","hfktrg"]
 krotka= tuple(list)
 print(krotka)
@@ -34,7 +32,6 @@ print(f"w krotce znaleziono: {skt} wystapien/nia ciagu 'kt'")
 print(f"slowa o dlugosci wieksej niz {s}, to: ", end=" ")
 for s in slowa: print(s, end=", ")
 
-import random
 n = 3
 x = 6
 lista = []
